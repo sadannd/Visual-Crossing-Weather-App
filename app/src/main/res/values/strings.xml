@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assignment3 Weather App</string>
+    <string name="dateInfo">Sun Aug 21 11:54 AM, 2022</string>
+    <string name="temp">73F</string>
+    <string name="feels">Feels like 73F</string>
+    <string name="partially">Partially Cloudy(25%clouds)</string>
+    <string name="winds">Winds: NE at 11 mph gusting to 10 mph</string>
+    <string name="humidity">Humidity: 82%</string>
+    <string name="uv_index">UV Index: 2</string>
+    <string name="visibility">Visibility: 2</string>
+    <string name="morn">70F</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="sunday">Sunday</string>
+    <string name="_75f_65f">75F/65F</string>
+    <string name="_100_precip">(100% precip.)</string>
+</resources>
